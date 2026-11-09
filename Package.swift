@@ -28,7 +28,7 @@ let package = Package(
   dependencies: [
     .package(
       url: "https://github.com/bigo-ads/BigoADS-Swift-Package.git",
-      exact: "6.1.0"
+      exact: "6.2.0"
     ),
     .package(
       url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
@@ -51,7 +51,7 @@ let package = Package(
     .binaryTarget(
       name: "BigoAdapter",
       url:
-        "https://dl.google.com/googleadmobadssdk/mediation/ios/bigo/BigoAdapter-6.1.0.0.zip",
+        "https://dl.google.com/googleadmobadssdk/mediation/ios/bigo/BigoAdapter-6.2.0.0.zip",
       checksum: "5fca24aa0e3b06629cb3737ad78ccbed7773e55711551188a14927cde9f0d135"
     ),
   ]
