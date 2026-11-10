@@ -52,7 +52,7 @@ let package = Package(
       name: "BigoAdapter",
       url:
         "https://dl.google.com/googleadmobadssdk/mediation/ios/bigo/BigoAdapter-6.2.0.0.zip",
-      checksum: "5fca24aa0e3b06629cb3737ad78ccbed7773e55711551188a14927cde9f0d135"
+      checksum: "f400517d32660d3416d1f93b511cd36f0ee7383df51ad2271108271bf8955a70"
     ),
   ]
 )
